@@ -2,7 +2,7 @@
 Web App | Mobile App | Source Code
 
 **OpenSource Face-Swap** for Free 
-[![Example Video](contents/tinywow_FILE 2023-10-25 12_13_42_38314640.gif)](contents/tinywow_FILE 2023-10-25 12_13_42_38314640.gif)
+![Example iamge](contents/tinywow_FILE 2023-10-25 12_13_42_38314640.gif)
 example of how that's work
 
 Welcome to faceMingle,
