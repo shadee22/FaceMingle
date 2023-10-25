@@ -3,7 +3,7 @@ Web App | Mobile App | Source Code
 
 **OpenSource Face-Swap** for Free 
 
-![Example iamge](contents/tinywow_FILE 2023-10-25 12_13_42_38314640.gif)
+![Example image](https://github.com/shadee22/FaceMingle/blob/main/contents/tinywow_FILE%202023-10-25%2012_13_42_38314640.gif?raw=true)
 
 example of how that's work
 
