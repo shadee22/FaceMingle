@@ -25,7 +25,7 @@ Collaborations are Welcome!
 
 Mobile App Screenshots:
 
-![mobile Screenshot](contents/for mobile/ss.png)
+![mobile Screenshot](https://github.com/shadee22/FaceMingle/blob/main/contents/for%20mobile/ss.png?raw=true)
 
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
