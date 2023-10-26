@@ -28,8 +28,8 @@ Mobile App Screenshots:
 ![mobile Screenshot](https://github.com/shadee22/FaceMingle/blob/main/contents/for%20mobile/ss.png?raw=true)
 
 Web App Screenshots
-![Web Screenshot](https://github.com/shadee22/FaceMingle/blob/main/contents/for%20mobile/ss.png?raw=true)
-![Web Screenshot](https://github.com/shadee22/FaceMingle/blob/main/contents/for%20mobile/ss.png?raw=true)
+![Web Screenshot](https://github.com/shadee22/FaceMingle/blob/main/contents/Screen%20Shot%202023-10-26%20at%2011.27.05%20AM.png?raw=true)
+![Web Screenshot](https://github.com/shadee22/FaceMingle/blob/main/contents/Screen%20Shot%202023-10-26%20at%2011.27.16%20AM.png?raw=true)
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
